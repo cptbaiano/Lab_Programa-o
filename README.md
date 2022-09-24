@@ -1,2 +1,2 @@
-# Lab_Programa-o
+# Lab_Programação
 Algoritmos em python
